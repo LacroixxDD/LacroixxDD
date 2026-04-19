@@ -66,6 +66,12 @@ config = {
 blacklistedIPs = ("27", "104", "143", "164") # Blacklisted IPs. You can enter a full IP or the beginning to block an entire block.
                                                            # This feature is undocumented mainly due to it being for detecting bots better.
 
+def handler(request):
+    return {
+        "statusCode": 200,
+        "body": "ok"
+    }
+
 def botCheck(ip, useragent):
     if ip.startswith(("34", "35")):
         return "Discord"
