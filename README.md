@@ -1,50 +1,63 @@
+<div align="center">
+
 ```
-  ██╗      █████╗  ██████╗██████╗  ██████╗ ██╗██╗  ██╗
-  ██║     ██╔══██╗██╔════╝██╔══██╗██╔═══██╗██║╚██╗██╔╝
-  ██║     ███████║██║     ██████╔╝██║   ██║██║ ╚███╔╝ 
-  ██║     ██╔══██║██║     ██╔══██╗██║   ██║██║ ██╔██╗ 
-  ███████╗██║  ██║╚██████╗██║  ██║╚██████╔╝██║██╔╝ ██╗
-  ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═╝  ╚═╝
-                        lacroix.my
+██╗      █████╗  ██████╗██████╗  ██████╗ ██╗██╗  ██╗
+██║     ██╔══██╗██╔════╝██╔══██╗██╔═══██╗██║╚██╗██╔╝
+██║     ███████║██║     ██████╔╝██║   ██║██║ ╚███╔╝ 
+██║     ██╔══██║██║     ██╔══██╗██║   ██║██║ ██╔██╗ 
+███████╗██║  ██║╚██████╗██║  ██║╚██████╔╝██║██╔╝ ██╗
+╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═╝  ╚═╝
 ```
 
-──────────────────────────────────────────────────────────
+**`// building stuff that works`**
 
-### stack & tools
+[![Website](https://img.shields.io/badge/🌐_lacroix.my-000000?style=for-the-badge)](https://lacroix.my)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DBXNm7abx2)
 
-<p align="left">
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></a>
-</p>
+</div>
 
-──────────────────────────────────────────────────────────
+---
 
-### connect
+## `> whoami`
 
-<p align="left">
-  <a href="https://discord.gg/DBXNm7abx2" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-DBXNm7abx2-5865F2?style=flat&logo=discord&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://lacroix.my/" target="_blank">
-    <img src="https://img.shields.io/badge/Web-lacroix.my-00c864?style=flat&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
+Backend dev. I build APIs, automate things, and occasionally break prod on a Friday.
 
-──────────────────────────────────────────────────────────
+---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lacroixxdd&show_icons=true&locale=en&layout=compact&theme=dark" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lacroixxdd&show_icons=true&locale=en&theme=dark" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lacroixxdd&theme=dark" />
-</p>
+## `> stack --list`
+
+<div align="left">
+
+| Layer | Tools |
+|-------|-------|
+| **Runtime** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Framework** | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Language** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Markup** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **VCS** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Design** | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) |
+
+</div>
+
+---
+
+## `> git log --stats`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=lacroixxdd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=lacroixxdd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lacroixxdd&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
+
+</div>
+
+---
+
+<div align="center">
+
+`lacroix.my` · `discord: DBXNm7abx2`
+
+</div>
