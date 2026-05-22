@@ -1,63 +1,51 @@
-<div align="center">
+![LacroixDD Banner Image](./banner.png)
 
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+# <img src="https://cdn.lacroix.my/public/emojis/web.png" width="30"/> ʜᴏʟᴀ, ꜱᴏʏ ʟᴀᴄʀᴏɪx! 
+*(Developer / Programmer)*
+<br /> 
+             
+<p align="left">Llevo 6 años trabajando como developer y vivo en Chile. Me manejo principalmente con JavaScript y hace unos años empecé a crear bots para servidores de Minecraft. </p>
+
+```bash
+
+>> neofetch
 ```
-██╗      █████╗  ██████╗██████╗  ██████╗ ██╗██╗  ██╗
-██║     ██╔══██╗██╔════╝██╔══██╗██╔═══██╗██║╚██╗██╔╝
-██║     ███████║██║     ██████╔╝██║   ██║██║ ╚███╔╝ 
-██║     ██╔══██║██║     ██╔══██╗██║   ██║██║ ██╔██╗ 
-███████╗██║  ██║╚██████╗██║  ██║╚██████╔╝██║██╔╝ ██╗
-╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═╝  ╚═╝
+
+<img align="left" src="https://japi.rest/discord/v1/user/1185051158612553841/avatar?animated=true&size=512" width="189"/>
+
+```python
+  Name     : Lacroix
+  Activity : Private and Public repositories
+  Skillset : Javascript, Embedded JavaScript, HTML, CSS
+  Discord  : 1185051158612553841
+  Contact  : [
+    https://lacroix.my
+    me@lacroix.my
+  ]
 ```
 
-**`// building stuff that works`**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=LacroixDD&label=Profile%20views&color=149373&style=for-the-badge&logo=star" alt="LacroixDD" style="padding-right:20px;" />
+</p>
 
-[![Website](https://img.shields.io/badge/🌐_lacroix.my-000000?style=for-the-badge)](https://lacroix.my)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DBXNm7abx2)
+<br>
 
-</div>
+## <img src="https://cdn.lacroix.my/public/emojis/vps.png" width="30"/> ꜱᴋɪʟʟꜱ! 
+<br /> 
 
----
-
-## `> whoami`
-
-Backend dev. I build APIs, automate things, and occasionally break prod on a Friday.
-
----
-
-## `> stack --list`
-
-<div align="left">
-
-| Layer | Tools |
-|-------|-------|
-| **Runtime** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Framework** | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Language** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Markup** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **VCS** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Design** | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) |
+<div display="flex">
+  <img width="48" height="48" radius="6px" src="https://skillicons.dev/icons?i=nodejs" alt="NODEJS"/>
+  <img width="48" height="48" radius="6px" src="https://skillicons.dev/icons?i=js" alt="JS"/>
+  <img width="48" height="48" radius="6px" src="https://skillicons.dev/icons?i=html" alt="HTML"/>
+  <img width="48" height="48" radius="6px" src="https://skillicons.dev/icons?i=css" alt="CSS"/>
+  <img width="48" height="48" radius="6px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
+  <img width="48" height="48" radius="6px" src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/>
+  <img width="48" height="48" radius="6px" src="https://skillicons.dev/icons?i=windows" alt="windows"/>
+  <img width="48" height="48" radius="6px" src="https://skillicons.dev/icons?i=linux" alt="linux"/>
 
 </div>
 
----
-
-## `> git log --stats`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lacroixxdd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=lacroixxdd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lacroixxdd&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
-
-</div>
-
----
-
-<div align="center">
-
-`lacroix.my` · `discord: DBXNm7abx2`
-
-</div>
