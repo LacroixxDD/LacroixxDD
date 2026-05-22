@@ -29,7 +29,7 @@
 ```
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=LacroixDD&label=Profile%20views&color=149373&style=for-the-badge&logo=star" alt="LacroixDD" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=LacroixxDD&label=Profile%20views&color=149373&style=for-the-badge&logo=star" alt="LacroixxDD" style="padding-right:20px;" />
 </p>
 
 <br>
