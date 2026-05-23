@@ -1,7 +1,7 @@
 ![LacroixDD Banner Image](./banner.png)
 
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="./owl.png">
 </div>
 
 # <img src="https://cdn.lacroix.my/public/emojis/web.png" width="30"/> ʜᴏʟᴀ, ꜱᴏʏ ʟᴀᴄʀᴏɪx! 
